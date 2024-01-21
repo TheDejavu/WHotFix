@@ -1,0 +1,4 @@
+name: WHotFix
+version: '${project.version}'
+main: dev.orhidea.whotfix.WHotFix
+api-version: '1.19'
